@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Recovery.PrjPcb
+[Project2]
+ProjectPath=Display.PrjPcb
+[Project3]
+ProjectPath=Supply.PrjPcb
